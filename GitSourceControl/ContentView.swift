@@ -6,6 +6,13 @@
 //
 
 /*
+ Clone - copying the repo locally, copying the entire git versioning and the project to my local computer (onetime)
+ Commit - save or checkpoint on our current branch
+ Stage - prepare changes for a commit, they are ready
+ Stash - save changes for later, they are not ready yet
+ Push - send local commits to remote repo
+ Pull - fetch remote commits to locl repo
+ 
  COMMIT MESSAGES
  depending on what you are building, add a prefix to it
  

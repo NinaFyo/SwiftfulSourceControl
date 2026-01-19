@@ -15,6 +15,8 @@ struct HomeView: View {
             Text("Screen 3")
             Text("Screen 4")
         }
+        
+        Image(systemName: "dog")
     }
 }
 

@@ -17,6 +17,9 @@ struct HomeView: View {
         }
         
         Image(systemName: "dog")
+        
+        Image(systemName: "person.fill")
+        Image(systemName: "home.fill")
     }
 }
 

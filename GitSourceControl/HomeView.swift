@@ -20,6 +20,10 @@ struct HomeView: View {
         
         Image(systemName: "person.fill")
         Image(systemName: "home.fill")
+        
+            .onAppear {
+                // some analitics
+            }
     }
 }
 
